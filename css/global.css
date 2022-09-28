@@ -4480,6 +4480,9 @@ footer div address,
     .listContainer {
         max-width: 1350px;
         margin: 0 auto;
+    }
+
+    .listContainer:not(.listContainer.all,.listContainer.best,.listContainer.new){
         padding-top: 1130px;
     }
 
