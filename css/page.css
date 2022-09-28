@@ -1793,7 +1793,6 @@ input[type='number'],
   .mainSlider li div {
     position: absolute;
     text-align: center;
-    top:137px;
   }
 
   .mainSlider li div h2 {
@@ -2131,7 +2130,6 @@ input[type='number'],
   }
 
   .boardContainer.Customer .AnnouncementBox ul li span {
-    display: inline-block;
     float: left;
   }
 
@@ -3818,7 +3816,6 @@ input[type='number'],
   }
 
   .boardContainer.Customer .AnnouncementBox ul li span {
-    display: inline-block;
     float: left;
   }
 
