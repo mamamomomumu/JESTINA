@@ -1359,10 +1359,9 @@ input[type='number'],
      padding: 10px 0;
   }
 
-
-
    .boardContainer.service .WishlistBox form ul li{
       border-top: 1px solid #ccc; 
+      font-size: 14px;
     }
 
     .boardContainer.service .WishlistBox form ul li:nth-of-type(2) figure{
