@@ -4480,6 +4480,7 @@ footer div address,
     .listContainer {
         max-width: 1350px;
         margin: 0 auto;
+        padding-top: 1130px;
     }
 
     .listContainer.active h2{
