@@ -1956,8 +1956,12 @@ footer div address,
     #caseTarget li:nth-of-type(2) span input {
         text-align: center;
         font-size: 12px;
+    }
+
+    #caseTarget li:nth-of-type(2) span input{
         line-height: 35px;
     }
+    
 
     #caseTarget li:nth-of-type(2) span:not(:nth-of-type(3)) input[type='text'] {
         color: #a8a8a8;
@@ -3063,10 +3067,10 @@ footer div address,
         color: #a8a8a8;
     }
 
-    .boardContainer.service div aside div ul:not(:last-of-type) {
-        padding-bottom: 20px;
+    .boardContainer.service div aside ul li:not(:last-of-type) {
+        margin-bottom: 20px;
     }
-
+    
     .boardContainer.service div aside div strong {
         color: #676767;
         font-size: 14px;

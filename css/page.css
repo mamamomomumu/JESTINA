@@ -1439,12 +1439,13 @@ input[type='number'],
   }
 
 
-  .boardContainer.service .ShipAddrBox form div input {
-    padding: 0 49px;
+  .boardContainer.service .ShipAddrBox form div input:first-of-type {
+    padding: 1px 49px;
+    font-size: 12px;
   }
 
-  .boardContainer.service .ShipAddrBox form div input:first-of-type{
-    font-size: 12px;
+  .boardContainer.service .ShipAddrBox form div input:last-of-type {
+    padding: 0 49px;
   }
 
   .boardContainer.service .ShipAddrBox form ul li:first-of-type {
@@ -1541,7 +1542,7 @@ input[type='number'],
   #orderhistoryPanel .historyList li span{
     display: block;
     border-bottom: 1px solid #ccc;
-    padding: 10px 0;
+    padding: 10.6px 0 9px 0;
   }
 
   #orderhistoryPanel .historyList li span:first-of-type{
@@ -1550,7 +1551,7 @@ input[type='number'],
 
   #orderhistoryPanel .historyList li figure {
     border-bottom: 1px solid #ccc;
-    padding: 10px 0;
+    padding: 9px 0 10px 0;
   }
 
   #orderhistoryPanel .historyList li figure img {
@@ -1598,7 +1599,7 @@ input[type='number'],
   }
 
     .boardContainer.service .orderDlvrBox div:nth-of-type(3) button {
-    line-height: 45px;
+    line-height: 45.1px;
     width: 50%;
     font-size: 14px;
     color: #767676;
