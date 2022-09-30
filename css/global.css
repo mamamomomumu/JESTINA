@@ -3067,10 +3067,6 @@ footer div address,
         padding-bottom: 20px;
     }
 
-    .boardContainer.service div aside ul li:not(:last-of-type) {
-        margin-bottom: 20px;
-    }
-
     .boardContainer.service div aside div strong {
         color: #676767;
         font-size: 14px;
@@ -3098,6 +3094,10 @@ footer div address,
     .boardContainer.Customer aside div ul li a {
         font-size: 14px;
         color: #a8a8a8;
+    }
+
+    .boardContainer.Customer div aside ul li:not(:last-of-type) {
+        margin-bottom: 20px;
     }
 
     .boardContainer.Customer .AnnouncementDetailBox div h3 {
