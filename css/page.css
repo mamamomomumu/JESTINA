@@ -861,7 +861,7 @@ input[type='number'],
   }
 
   .CollectionlistContainer ul li:nth-of-type(5){
-    background-position: top center;
+    background-position: 90% center;
   }
   .CollectionlistContainer ul li:nth-of-type(5):hover {
     background-position: 68% center;
